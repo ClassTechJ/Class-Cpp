@@ -1,2 +1,8 @@
 # Class-Cpp
-Aqui se podran encontrar los códigos vistos durante la clase de taller de tecnología para que sean consultados por los estudiantes
+Repositorio oficial Taller de Tecnología.
+Contenido:
+  ExampleCoding.cpp
+  Codigo que permite el conocimiento y funcionamiento de un codigo en C++.
+    Estructura basica de un codigo.
+    Uso de cout.
+    uso de cin.
